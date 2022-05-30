@@ -1,0 +1,1 @@
+July 21, 2021: Salesforce completed its acquisition of Slack Technologies, Inc. Together, Salesforce and Slack are creating the digital HQ for success from anywhere.

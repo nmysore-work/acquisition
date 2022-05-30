@@ -1,0 +1,1 @@
+May 2, 2018: Salesforce completed its acquisition of MuleSoft, one of the world’s leading platforms for building application networks that connect enterprise apps, data and devices, across any cloud and on-premise

@@ -1,0 +1,1 @@
+June 1, 2020: Salesforce completed its acquisition of Vlocity, a leading provider of industry-specific cloud and mobile software for the world’s top companies in communications, media and entertainment, energy and utilities, insurance, health, and government organizations.
