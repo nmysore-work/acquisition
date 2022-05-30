@@ -1,0 +1,1 @@
+November 1, 2016: Salesforce completed its acquisition of Krux, a CRM traffic and data management platform. In 2017, the company announced that Krux had become Salesforce DMP.

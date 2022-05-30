@@ -1,0 +1,1 @@
+February 1, 2016: Salesforce completed its acquisition of SteelBrick, which has tools that take care of orders, contracts, billing, and payments

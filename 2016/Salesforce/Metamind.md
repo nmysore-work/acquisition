@@ -1,0 +1,1 @@
+April 1, 2016: Salesforce completed its acquisition of Metamind, a deep-learning artificial intelligence platform.
