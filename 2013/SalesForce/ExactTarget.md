@@ -1,0 +1,1 @@
+July 12, 2013: Salesforce completed its acquisition of ExactTarget, a leading cloud marketing platform.

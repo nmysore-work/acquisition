@@ -1,0 +1,1 @@
+August 26, 2016: Salesforce completed its acquisition of Quip. In November of 2017, Salesforce introduced the Quip Collaboration Platform.
