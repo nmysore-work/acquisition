@@ -1,0 +1,1 @@
+August 20, 2018: Salesforce completed its acquisition of Datorama, the leading cloud-based, AI-powered marketing intelligence and analytics platform for enterprises, agencies, and publishers

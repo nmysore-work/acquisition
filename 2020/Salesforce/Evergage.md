@@ -1,0 +1,1 @@
+February 3, 2020: Salesforce completed its acquisition of Evergage, the leading software platform for real-time 1:1 personalization.

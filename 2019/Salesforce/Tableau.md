@@ -1,0 +1,1 @@
+August 1, 2019: Salesforce completed its acquisition of Tableau Software, bringing together the world’s #1 CRM with the world’s #1 analytics platform.

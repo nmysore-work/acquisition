@@ -1,0 +1,1 @@
+Acquired in: October 2018

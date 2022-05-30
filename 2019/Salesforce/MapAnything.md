@@ -1,0 +1,1 @@
+May 30, 2019: Salesforce completed its acquisition of MapAnything, a pioneer in location-based intelligence software built natively on the Salesforce Platform. MapAnything integrates map — based visualization, asset tracking and route optimization to drive efficiency for field sales and service teams and deliver a better customer experience

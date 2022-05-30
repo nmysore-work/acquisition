@@ -1,0 +1,1 @@
+October 1, 2019: Salesforce completed its acquisition of ClickSoftware, a leader in field service management solutions.

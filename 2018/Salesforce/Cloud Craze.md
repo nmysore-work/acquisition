@@ -1,0 +1,1 @@
+April 6, 2018: Salesforce completed its acquisition of CloudCraze, a leading B2B commerce platform built natively on Salesforce

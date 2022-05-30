@@ -1,0 +1,1 @@
+Acquired in May 2020

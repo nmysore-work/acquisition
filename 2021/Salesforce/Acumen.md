@@ -1,0 +1,1 @@
+February 1, 2021: Salesforce completed its acquisition of Acumen Solutions, a leading professional services firm with deep Salesforce knowledge and extensive industry expertise across public sector, manufacturing, financial services, and more
